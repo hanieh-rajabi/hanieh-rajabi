@@ -1,23 +1,62 @@
-## Hi there 👋
+# Hi, I'm Hanieh 
 
-# 💫 About Me:
-👯 I’m looking to collaborate on analyzing biomedical datasets.<br>🌱 I’m currently learning SQL and machine learning<br>⚡ Fun fact: My academic background is in cellular and molecular biology.
+### 🧬 Cellular & Molecular Biology | Bioinformatics | Biomedical Data Science
 
+I'm a **Cellular & Molecular Biology graduate** interested in using computational methods to understand biological and biomedical data.
+I'm currently building my skills through hands-on projects involving real biological datasets, with a focus on learning how to turn complex data into meaningful biological insights.
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkdin.com/in/hanieh-rajabiii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajabi.hanieh@gmail.com) 
+## 🔬 What I'm Interested In
 
-# 💻 Tech Stack:
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hanieh-rajabi&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hanieh-rajabi&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hanieh-rajabi&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🧬 Bioinformatics & Computational Biology
+- 🧪 Genomics & Gene Expression Analysis
+- 📊 Biomedical Data Science
+- 🩺 Clinical & Health Data Analysis
+- 🧠 Machine Learning for Biomedical Applications
+- 🧬 Cancer Genomics 
+- 🧬 Medical & Genetic Data Analysis
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hanieh-rajabi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Technical Skills
+
+### Programming & Data Analysis
+- **Python** — pandas, NumPy, scikit-learn, matplotlib
+- **R** — tidyverse, ggplot2, DESeq2
+- **Bash / Linux**
+
+### Bioinformatics
+- RNA-seq analysis
+- Differential expression analysis
+- Gene Ontology enrichment
+- Variant & SNP analysis
+- Sequence analysis
+- BLAST
+- Primer design
+---
+
+## 📚 Currently Learning
+
+I'm continuously expanding my skills in:
+
+- Advanced statistical analysis
+- Survival analysis
+- Cancer genomics
+- Machine learning for biological data
+- Bioinformatics pipelines
+- SQL & data management
+- Reproducible computational research
+
+---
+
+I'm especially interested in developing computational approaches that can help us better understand **genomic, molecular, and clinical data**.
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in connecting with people working in:
+
+**Bioinformatics · Computational Biology · Biomedical Data Science · Genomics · Health Data Science**
+
+Thanks for visiting my profile!
