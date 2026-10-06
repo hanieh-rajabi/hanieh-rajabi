@@ -1,6 +1,6 @@
 # Hi, I'm Hanieh 
 
-### 🧬 Cellular & Molecular Biology | Bioinformatics | Biomedical Data Science
+## 🧬 Cellular & Molecular Biology | Bioinformatics | Biomedical Data Science
 
 I'm a **Cellular & Molecular Biology graduate** interested in using computational methods to understand biological and biomedical data.
 I'm currently building my skills through hands-on projects involving real biological datasets, with a focus on learning how to turn complex data into meaningful biological insights.
